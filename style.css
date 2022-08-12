@@ -1,0 +1,28 @@
+.calc{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(60, 70, 70);
+    margin-top: 50px;
+    margin-left: 100px;
+}
+#screen{
+    font-size: 25px;
+    width: 80%;
+    height: 50px;
+    margin-top: 70px;
+    margin-left: 40px;
+    pointer-events: none;
+    background-color: antiquewhite;
+}
+.btn{
+    margin-top: 15px;
+    width: 80px;
+    height: 50px;
+    background-color: aquamarine;
+    font-size: 25px;
+}
+.row{
+    margin-left: 50px;
+    margin-top: 20px;
+    word-spacing: 18px;
+}
